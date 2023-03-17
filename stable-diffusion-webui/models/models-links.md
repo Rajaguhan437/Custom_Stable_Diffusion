@@ -16,3 +16,8 @@
 - And still there are thousands of models present in hugging face..
 
 - Automatic1111 presents an option of mixing of these models to produce a hybrid model. It allows a maximum of 3 models to be combined with varying percentage weights.
+
+- Requriments:
+ 
+        ==> Need high storage space since each model would range from 2GB - 5.2GB 
+        ==> Faster Internet(optional)
