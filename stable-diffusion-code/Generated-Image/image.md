@@ -1,0 +1,3 @@
+-   These images were created with  custom stable diffusion model trained from pre-trained model of runawayml-v1.5 via dreambooth.
+
+-   For every genre, there would be video of those images available, if not available it would be added sooner or later...
