@@ -10,8 +10,7 @@
 
 -     with as little as 10 images with max-training-steps==1000.
 
--     
-     The model is uploaded on my [hugging-face](https://huggingface.co/spaces/rajaguhan/custom_sd/tree/main/) space. It could be downloaded from there. 
+
      
      
  # MODEL-Upload Error:
@@ -34,4 +33,4 @@
      ![screenshot](<Screenshot%20(112).png>)
  
 
-
+-       But the model is uploaded on my [hugging-face](https://huggingface.co/spaces/rajaguhan/custom_sd/tree/main/) space. It could be downloaded from there. 
