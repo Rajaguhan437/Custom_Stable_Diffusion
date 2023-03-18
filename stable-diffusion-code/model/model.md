@@ -31,7 +31,7 @@
                -    fatal: the remote end hung up unexpectedly
                -    Everything up-to-date
 
--      ![screenshot](screenshot20%(112).png)
+-      ![screenshot](Screenshot%20(112).png)
  
 
 
