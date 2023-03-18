@@ -10,4 +10,4 @@
 
 -     with as little as 10 images with max-training-steps==1000.
 
--     The model is uploaded on my [hugging-space](https://huggingface.co/spaces/rajaguhan/custom_sd/tree/main) space. It could be downloaded from there. 
+-     The model is uploaded on my [hugging-space]("https://huggingface.co/spaces/rajaguhan/custom_sd/tree/main") space. It could be downloaded from there. 
