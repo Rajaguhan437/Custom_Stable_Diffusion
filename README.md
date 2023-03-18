@@ -43,3 +43,9 @@
                       -  3.Front-End Web UI
                       -  4.So, No need of postman-testing
 
+
+ - ## Extra-Content :
+        -    Stable-Diffusion-webUI using [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui.git)
+        -    Very powerful and most efficient stable-diffusion platform
+        -    Control-Nets, Multi-Controlnets, Openpose editor and many many extra features can be operated on sd with this
+        -    Requries a large of free space (70GB), 8GB VRAM (std.) on NVIDIA GPUs.
