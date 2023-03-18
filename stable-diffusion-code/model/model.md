@@ -32,7 +32,9 @@
 
      ![screenshot](<Screenshot%20(112).png>)
  
-
--       But the model is uploaded on my [hugging-face](https://huggingface.co/spaces/rajaguhan/custom_sd/tree/main/) space. It could be downloaded from there. 
-
 -       Pls contact me if there is a way to overcome it...ThankYOU
+
+
+ But the model is uploaded on my [hugging-face](https://huggingface.co/spaces/rajaguhan/custom_sd/tree/main/) space. It could be downloaded from there. 
+
+
