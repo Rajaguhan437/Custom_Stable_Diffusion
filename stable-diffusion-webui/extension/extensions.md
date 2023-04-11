@@ -4,11 +4,15 @@
   -  It can be easily installed just cloning the github repo link and installing it.
       
   -  Some important extensions are:
+  -  
             -  [+]stable-diffusion-webui-Prompt_Generator     ==>  https://github.com/imrayya/stable-diffusion-webui-Prompt_Generator.git
             -  [+]sd-webui-ar  (aspect-ratio calculator)      ==>  https://github.com/alemelis/sd-webui-ar.git
             -  [+]openpose-editor                             ==>  https://github.com/fkunn1326/openpose-editor.git
             -  [+]sd-webui-controlnet (control-net)           ==>  https://github.com/Mikubill/sd-webui-controlnet.git
             -  [+]sd-webui-depth-lib ( ,  , ,  )              ==>  https://github.com/jexom/sd-webui-depth-lib.git
+            -  [+]Auto-Photoshop-StableDiffusion-Plugin       ==>  https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin.git
+            -  [+]deforum-for-automatic1111-webui             ==>  https://github.com/deforum-art/deforum-for-automatic1111-webui.git
+            -  [+]sd-webui-3d-open-pose-editor                ==>  	https://github.com/nonnonstop/sd-webui-3d-open-pose-editor.git
          
          
 - #  CONTROL NETS : 
